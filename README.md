@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **harshvardhantotawar14@gmail.com**
+- <br>
+  <br>
 <h2 align="left">Skills🚀</h2>
 <!-- Languages -->
 #### 🔥Languages:
