@@ -28,18 +28,3 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
-<!-- Databases -->
-#### 🧵Databases:
-<div>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  
-</div>
-<!-- Hosting/SaaS -->
-#### ☁️ Hosting/SaaS:
-<div>
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-     ![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
-     ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-     
-
-</div>
